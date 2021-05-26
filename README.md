@@ -1,0 +1,2 @@
+# zshrc
+share .zshrc 
